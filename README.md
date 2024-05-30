@@ -1,5 +1,5 @@
 **Sparse-Matrix**
-
+-----------------
 
 **__init__:** Initializes a sparse matrix. It can take either a file path to load the matrix from a file or the dimensions of the matrix (rows and columns). If a file path is provided, it loads the matrix from the file using the load_from_txt method. If dimensions are provided, it initializes an empty matrix.
 
